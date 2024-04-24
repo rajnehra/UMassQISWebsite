@@ -8,7 +8,7 @@ title = "Quantum Information Science and Technology Workshop"
 
 The QIST workshop is designed to bring together a diverse group of researchers working on various aspects of quantum information spanning across computation, communication, precision measurements, and sensing applications.  
 
-**Time**: Monday, 04/29, 8:00 AM - 6:00 PM. The talks will start at 9:00 AM.  
+**Time**: Monday, 04/29, 8:00 AM - 6:30 PM. The talks will start at 9:00 AM.  
 
 **Location**: Marriot Center, Hotel UMass (1 Campus Center Way, Amherst, MA 01003) 
 
@@ -22,13 +22,13 @@ Warit Asavanant, University of Tokyo and RIKEN, “How to build an optical quant
 
 Robert Niffeneggar, Department of Electrical and Computer Engineering, UMass Amherst, “Qubit operations with visible photonic lasers for portable and scalable quantum systems” 
 
-Mehdi Namazi, CEO Qunnect, “TBA” 
+Mehdi Namazi, Qunnect, “24/7 entanglement in New York City”  
 
 James Teoh, Quantum Circuits, Inc., “TBA” 
 
 Stefan Krastanov, Manning College of Information and Computer Sciences, UMass Amherst, “Faster-than-Clifford Simulations of Entanglement Purification Circuits and Their Full-stack Optimization”
 
-Don Towsley, Manning College of Information and Computer Sciences, UMass Amherst, “TBA” 
+Prateek Mantri, Manning College of Information and Computer Sciences, UMass Amherst, “Comparing one-way and two-way repeater architectures in the context of multiplexing” 
 
 Taqi Raza, Department of Electrical and Computer Engineering, UMass Amherst, “Formal Analysis of Quantum Security Protocols” 
 
@@ -44,6 +44,6 @@ Nicolas Quesada, École Polytechnique de Montréal, “Linear cross-entropy cert
 
 Martin Houde, École Polytechnique de Montréal, “Perfect pulsed inline twin-beam squeezers” 
 
-Ryotatsu Yanagimoto, Cornell and NTT Research, “Non-Gaussian quantum physics of mesoscopic nonlinear optics: from phenomenology to function” 
+Ryotatsu Yanagimoto, NTT Research and Cornell University, “Non-Gaussian quantum physics of mesoscopic nonlinear optics: from phenomenology to function” 
 
  
